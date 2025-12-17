@@ -1,19 +1,19 @@
 ## Hi there 👋
 
-I’m a software developer who uses Python as one of my main tools.
+Sou um desenvolvedor de software que utiliza Python como uma de suas principais ferramentas.
 
-My goal is simple: improving people’s lives through technology.
+Meu objetivo é simples: melhorar a vida das pessoas por meio da tecnologia.
 
-Developing software has been a very real dream for me.  
-It’s something that truly changes lives — starting back in childhood, building small projects with simple robots, growing into Arduino experiments, and now being able to use everything I’ve learned to create real solutions that make a difference.
+Desenvolver software sempre foi um sonho muito real para mim.  
+É algo que realmente muda vidas — começando na infância, criando pequenos projetos com robozinhos, evoluindo para experimentos com Arduino, e hoje conseguindo usar tudo o que aprendi para criar soluções reais que fazem a diferença.
 
-I’m constantly learning new languages and tools to build, shape, and solve problems.
+Estou constantemente aprendendo novas linguagens e ferramentas para criar, moldar e resolver problemas.
 
-> “Fall in love with the problem, not the solution.”  
+> “Não se apaixone pela solução, apaixone-se pelo problema.”  
 > — Marty Cagan
 
-Today, I apply this mindset by automating tasks and processes, including work on the ServiceNow platform using JavaScript, as well as working with databases and SQL concepts when needed.
+Atualmente, aplico essa mentalidade criando e automatizando tarefas e processos, inclusive na plataforma ServiceNow utilizando JavaScript, além de trabalhar com conceitos de bancos de dados e SQL quando necessário.
 
-I believe good software is not just about code — it’s about saving time, reducing friction, and helping people focus on what truly matters.
+Acredito que um bom software não é apenas código — é sobre ganhar tempo, reduzir atritos e ajudar as pessoas a focarem no que realmente importa.
 
-I hope something you find here helps you in some way.
+Espero que algo que você encontre aqui te ajude de alguma forma.
