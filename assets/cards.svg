@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="170" viewBox="0 0 760 170" role="img">
+  <rect width="760" height="170" fill="#0B1026"/>
+  <g>
+    <rect x="2" y="2" width="368" height="166" rx="12" fill="#0B1026" stroke="#2A3558"/>
+    <text x="22" y="34" fill="#8BE9FD" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">AdsonSanntos</text>
+    <text x="352" y="34" text-anchor="end" fill="#C084FC" font-family="Segoe UI, Ubuntu, sans-serif" font-size="11">GitHub</text>
+    <text x="22" y="74" fill="#A8B4C8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Repositorios</text>
+    <text x="352" y="74" text-anchor="end" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">4</text>
+    <text x="22" y="104" fill="#A8B4C8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Contribuicoes no ano</text>
+    <text x="352" y="104" text-anchor="end" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">11</text>
+    <text x="22" y="134" fill="#A8B4C8" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Desde</text>
+    <text x="352" y="134" text-anchor="end" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13" font-weight="700">2025</text>
+  </g>
+  <g transform="translate(388,0)">
+    <rect x="2" y="2" width="368" height="166" rx="12" fill="#0B1026" stroke="#2A3558"/>
+    <text x="22" y="34" fill="#8BE9FD" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">Linguagens</text>
+    <text x="22" y="64" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">JavaScript</text>
+    <rect x="22" y="72" width="328" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="72" width="210" height="8" rx="4" fill="#F1E05A"/>
+    <text x="22" y="102" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">Python</text>
+    <rect x="22" y="110" width="328" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="110" width="150" height="8" rx="4" fill="#3572A5"/>
+    <text x="22" y="140" fill="#E8ECF4" font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">TypeScript</text>
+    <rect x="22" y="148" width="328" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="148" width="110" height="8" rx="4" fill="#3178C6"/>
+  </g>
+</svg>

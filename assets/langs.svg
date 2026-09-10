@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="320" height="165" viewBox="0 0 320 165" role="img" aria-label="langs">
+  <rect width="320" height="165" rx="12" fill="#0B1026"/>
+  <rect x="1" y="1" width="318" height="163" rx="11" fill="none" stroke="#2A3558"/>
+  <text x="22" y="32" fill="#8BE9FD" font-family="Segoe UI, Ubuntu, sans-serif" font-size="16" font-weight="700">Linguagens</text>
+  <g font-family="Segoe UI, Ubuntu, sans-serif" font-size="13">
+    <text x="22" y="64" fill="#E8ECF4">JavaScript</text>
+    <rect x="22" y="72" width="276" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="72" width="180" height="8" rx="4" fill="#F1E05A"/>
+    <text x="22" y="102" fill="#E8ECF4">Python</text>
+    <rect x="22" y="110" width="276" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="110" width="130" height="8" rx="4" fill="#3572A5"/>
+    <text x="22" y="140" fill="#E8ECF4">TypeScript</text>
+    <rect x="22" y="148" width="276" height="8" rx="4" fill="#1B2440"/>
+    <rect x="22" y="148" width="95" height="8" rx="4" fill="#3178C6"/>
+  </g>
+</svg>
